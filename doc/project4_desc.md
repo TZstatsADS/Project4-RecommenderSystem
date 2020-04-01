@@ -1,4 +1,4 @@
-### GR5243 Fall 2019 Applied Data Science
+### GR5243 Spring 2020 Applied Data Science
 ### Project 4 Collaborative Filtering Algorithms Evaluation
 
 In this project, working in teams, you will implement, evaluate and **compare** algorithms for **Collaborative Filtering**.
@@ -20,9 +20,9 @@ All developments need to be carried out in group-shared private repo on [https:/
 
 Each week, we will give a tutorial in class and having live discussion and brainstorm sessions. The instruction team will join team discussions during class and online. 
 
-- week 1 [Oct 30/31]: Introduction and project description.
-- week 2 [Nov 6/7]:  Introduction to Recommender Systems; Starter codes; Q&A.
-- week 3 [Nov 13/14]: Discussion of assigned algorithms.
+- week 1 [Apr 1]: Introduction and project description.
+- week 2 [Apr 8]: Introduction to Recommender Systems; Starter codes; Q&A.
+- week 3 [Apr 15]: Discussion of assigned algorithms.
 
 #### Evaluation criteria 
 
@@ -34,7 +34,7 @@ Each week, we will give a tutorial in class and having live discussion and brain
 
 ### Suggested team workflow
 1. [wk1] Week 1 is the **reading and coding** week. Read the papers, understand the algorithms assigned to you and start coding up the algorithms; Also load the data and understand its structure. 
-2. [wk1] Each team is strongly recommended to demonstrate project progress by posting a project plan with task assignments as issues on GitHub by Nov 6. 
+2. [wk1] Each team is strongly recommended to demonstrate project progress by posting a project plan with task assignments as issues on GitHub. 
 4. [wk1] As a team, brainstorm about your evaluation plan.  
 5. [wk2] Based on the outcomes from week 1's reading and brainstorm sessions, continue coding and start evaluation. 
 6. [wk2] Week 2 is the **evaluation** week. 
